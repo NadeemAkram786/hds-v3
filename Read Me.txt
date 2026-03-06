@@ -1,0 +1,13 @@
+1. Navbar, Hero, Banner, Slider has been designed.
+2. Theme changed to blue.
+3. Partners section is now ready.
+4. Home page is almost completed.
+5. Mission page is ready.
+6. Services page is ready.
+7. About Us page is ready.
+8. Contact us page is ready.
+9. home page animation is ready.
+10. services page has got animated.
+11. about us page is now animated.
+12. animation applied on contact us page. And font has been changed too.
+13. Fahim photo has been updated.
